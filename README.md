@@ -6,7 +6,7 @@ I'm a passionate software developer with expertise in HTML/CSS and Java.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything in HTML/CSS and Java.
 - 📫 How to reach me: waris99973@gmail.com .
-- 😄 Pronouns: He/Him.
+
 
 
 ### 🔧 Technologies & Tools
